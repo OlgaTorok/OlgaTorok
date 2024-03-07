@@ -1,13 +1,7 @@
 ### Hi there 👋
 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OlgaTorok&layout=compact)
 
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OlgaTorok&show_icons=true&theme=dracula) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OlgaTorok&layout=compact) |
-|--- |--- |
-
-
-
-
- 
 
 
 
@@ -36,5 +30,8 @@ Here are some ideas to get you started:
 <img src="https://myreadme.vercel.app/api/embed/OlgaTorok?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=OlgaTorok.font-recognition-app)
+
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OlgaTorok&show_icons=true&theme=dracula) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OlgaTorok&layout=compact) |
+|--- |--- |
 
 -->
