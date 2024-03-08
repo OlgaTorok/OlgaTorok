@@ -1,6 +1,10 @@
-<h1 align="center">Hi 👋, &nbsp; I'm Olga Torok</h1>
-<h3 align="center">A passionate Frontend Developer</h3>
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3I0ZG1pbmttMnQ4dnpnYjY5ODdmaDU3YmllZWtzdWZ2aHdsZXVsZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGhpQ5NMoWKQurlHwI/giphy.gif" width="100"/>
+</div>
 
+
+<h1 align="center">Hi there 👋, I'm Olga</h1>
+<h3 align="center">A passionate Frontend Developer</h3>
 
 <table align="center">
   <tbody>
