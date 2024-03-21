@@ -3,7 +3,7 @@
 </div>
 
 
-<h1 align="center">Hi there 👋,I'm Olga</h1>
+<h1 align="center">Hi there 👋, I'm Olga</h1>
 <h3 align="center">A passionate Frontend Developer</h3>
 
 <table align="center">
