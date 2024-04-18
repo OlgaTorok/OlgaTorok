@@ -1,3 +1,4 @@
+
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3I0ZG1pbmttMnQ4dnpnYjY5ODdmaDU3YmllZWtzdWZ2aHdsZXVsZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGhpQ5NMoWKQurlHwI/giphy.gif" width="100"/>
 </div>
@@ -5,6 +6,15 @@
 
 <h1 align="center">Hi there 👋, I'm Olga</h1>
 <h3 align="center">A passionate Frontend Developer</h3>
+
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,javascript,typescript,angular,react,nodejs,vscode,github,git,figma" />
+</div>
+
+<br>
+
+<!-- SKILLS -->
 
 <table align="center">
   <tbody>
@@ -68,12 +78,13 @@
   </tbody>
 </table>
 
-<!--
-<p>
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=olgatorok&show_icons=true&locale=en&layout=compact" alt="olgatorok" />
-</p>
 
-<p>
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=olgatorok&show_icons=true&locale=en" alt="olgatorok" />
-</p>
--->
+<!-- STATS -->
+
+<div align='center'>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=OlgaTorok&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+ 
+  <img width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlgaTorok&langs_count=8&show_icons=true&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
+</div>
+
+
