@@ -17,10 +17,10 @@
 
 <br>
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlgaTorok&langs_count=8&show_icons=true&layout=compact&theme=react&border_radius=4.5" alt="top langs"  width="45%" height="200" align="left" />
   <img src="https://streak-stats.demolab.com?user=OlgaTorok&theme=react&hide_border=true&card_height=215" alt="GitHub Streak" width="45%" align="center" />
-</p>
+</div>
   
 <div align="center"> 
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OlgaTorok&theme=react" width="31%" align="left"/>
