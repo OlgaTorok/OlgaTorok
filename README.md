@@ -17,10 +17,10 @@
 
 <br>
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlgaTorok&langs_count=8&show_icons=true&layout=compact&theme=react&border_radius=4.5" alt="top langs"  width="45%" height="200" />
   <img src="https://streak-stats.demolab.com?user=OlgaTorok&theme=react&hide_border=true&card_height=215" alt="GitHub Streak" width="45%" />
-</div>
+</p>
 
   <br>
   
