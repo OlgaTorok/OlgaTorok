@@ -17,17 +17,17 @@
 
 <br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlgaTorok&langs_count=8&show_icons=true&layout=compact&theme=react&border_radius=4.5" alt="top langs"  width="45%" height="200" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlgaTorok&langs_count=8&show_icons=true&layout=compact&theme=react&border_radius=4.5" alt="Top Langs"  width="45%" height="200" />
   <img src="https://streak-stats.demolab.com?user=OlgaTorok&theme=react&hide_border=true&card_height=215" alt="GitHub Streak" width="45%" />
-</p>
+</div>
 
-  <br>
+<br>
   
 <div align="center"> 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OlgaTorok&theme=react" width="31%" align="left"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OlgaTorok&theme=react" width="31%" align="right" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OlgaTorok&theme=react" width="31%" align="center" />  
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OlgaTorok&theme=react" alt="Repos per lang" width="31%" align="left"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OlgaTorok&theme=react" alt="Most commit lang" width="31%" align="right" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OlgaTorok&theme=react" alt="Productive time" width="31%" align="center" />  
   </br></br>
    </a>
 
