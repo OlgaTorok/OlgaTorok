@@ -36,7 +36,7 @@
 
 
 
-
+<!--  
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OlgaTorok&theme=react&height=250&radius=4.5)](https://github.com/OlgaTorok/github-readme-activity-graph)
-
+-->
  
