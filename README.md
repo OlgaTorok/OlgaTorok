@@ -1,5 +1,5 @@
 
-![](https://komarev.com/ghpvc/?username=OlgaTorok&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=OlgaTorok&color=blueviolet&style=for-the-badge&abbreviated=true&label=VIEWS)
 
 <div align="center">
   <img width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnh3NjQwbGpxMDN5NzloeDk3bWVtOXhieGxkOHl3Mm9vNmZza2tqZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" />
