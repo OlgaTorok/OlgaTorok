@@ -13,7 +13,7 @@
 <!-- SKILLS -->
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,javascript,typescript,angular,react,nodejs,vscode,git,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,javascript,typescript,angular,react,vscode,git,figma" />
 </div>
 
 <br>
