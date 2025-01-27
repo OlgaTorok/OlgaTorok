@@ -1,5 +1,8 @@
 
 ![](https://komarev.com/ghpvc/?username=OlgaTorok&color=blueviolet&style=for-the-badge&abbreviated=true&label=VIEWS)
+<a href="https://github.com/OlgaTorok?tab=repositories">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo"/>
+  </a>
 
 <div align="center">
   <img width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnh3NjQwbGpxMDN5NzloeDk3bWVtOXhieGxkOHl3Mm9vNmZza2tqZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" />
@@ -7,24 +10,28 @@
 
 
 <h1 align="center">Hi there 👋, I'm Olga</h1>
-<h3 align="center">A passionate Front-End Developer</h3>
+<h3 align="center">Web Developer | Front-End Enthusiast</h3>
+
+## 💡 What I do:
+- Build responsive, user-friendly websites
+- Experiment with design to craft intuitive and visually engaging interfaces
+- Continuously learn and explore new tools and technologies
 
 
+## 🛠️ Skills
 <!-- SKILLS -->
-
-<div align="center">
+<div align="left">
     <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,javascript,typescript,angular,react,vscode,git,figma" />
 </div>
 
-<br>
-<br>
+## 📊 Stats
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlgaTorok&langs_count=8&show_icons=true&layout=compact&theme=tokyonight&border_radius=4.5" alt="Top Langs" height="200" />
 
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=OlgaTorok&show_icons=true&theme=tokyonight&card_width=300"
+      srcset="https://github-readme-stats.vercel.app/api?username=OlgaTorok&show_icons=true&theme=tokyonight"
       media="(prefers-color-scheme: dark)"
     />
     <source
@@ -36,10 +43,14 @@
 </div>
 
 
- 
 
  
 <!-- 
+
+## 📫 Let’s connect!
+Check out my repositories below or reach out to discuss collaboration opportunities!  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OlgaTorok&size_weight=0.5&count_weight=0.5)
 
 ![Olga's GitHub stats](https://github-readme-stats.vercel.app/api?username=OlgaTorok&show_icons=true&theme=tokyonight)
 
@@ -58,9 +69,6 @@
 
 
 <p align="center">
-  <a href="https://www.youtube.com/@karenlouise75?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white)](https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg?sub_confirmation=1 "Subscribe to my YouTube channel"/>
-  </a> 
   <a href="https://github.com/OlgaTorok?tab=repositories">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo"/>
   </a>
