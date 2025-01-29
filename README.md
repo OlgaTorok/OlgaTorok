@@ -26,8 +26,14 @@
 
 ## 📊 Stats
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlgaTorok&langs_count=8&show_icons=true&layout=compact&theme=tokyonight&border_radius=4.5" alt="Top Langs" height="200" />
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlgaTorok&langs_count=8&show_icons=true&layout=compact&theme=tokyonight&border_radius=4.5" alt="Top Langs" height="200" /> | ![Olga's GitHub stats](https://github-readme-stats.vercel.app/api?username=OlgaTorok&show_icons=true&width=100&theme=tokyonight) |
+| --- | ---|
+
+
+
+ 
+<!-- 
+
 
   <picture>
     <source
@@ -40,12 +46,8 @@
     />
     <img src="https://github-readme-stats.vercel.app/api?username=OlgaTorok&show_icons=true" />
   </picture>
-</div>
 
-
-
- 
-<!-- 
+  
 
 ## 📫 Let’s connect!
 Check out my repositories below or reach out to discuss collaboration opportunities!  
