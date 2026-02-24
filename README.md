@@ -28,12 +28,12 @@ Continuously learn and explore new tools and technologies
 <div align="center"> 
     <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=OlgaTorok&theme=tokyonight" alt="Repos per lang" width="55%" align="left"/>
     <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=OlgaTorok&layout=compact&theme=tokyonight" alt="Repos per lang" width="40%" align="left"/>
-    </br></br>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OlgaTorok&theme=react" alt="Repos per lang" width="31%" align="left"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OlgaTorok&theme=react" alt="Productive time" width="31%" align="center" />  
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OlgaTorok&theme=react" alt="Most commit lang" width="31%" align="right" />
-    </br></br>
-    <img src="https://github-readme-stats-fast.vercel.app/api?username=OlgaTorok&show_icons=true&theme=tokyonight" alt="Repos per lang" width="55%" align="left"/>
+</div>
+
+<div align="center"> 
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OlgaTorok&theme=react" alt="Repos per lang" width="28%" align="left"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OlgaTorok&theme=react" alt="Productive time" width="28%" align="center" />  
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=OlgaTorok&show_icons=true&theme=tokyonight" alt="Most commit lang" width="40%" align="right" />
 </div>
 
 
