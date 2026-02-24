@@ -33,7 +33,7 @@ Continuously learn and explore new tools and technologies
 <div align="center"> 
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OlgaTorok&theme=react" alt="Repos per lang" width="28%" align="left"/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OlgaTorok&theme=react" alt="Productive time" width="28%" align="center" />  
-    <img src="https://github-readme-stats-fast.vercel.app/api?username=OlgaTorok&show_icons=true&theme=tokyonight" alt="Most commit lang" width="40%" align="right" />
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=OlgaTorok&show_icons=true&theme=tokyonight" alt="Most commit lang" width="38%" align="right" />
 </div>
 
 
