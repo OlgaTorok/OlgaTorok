@@ -15,7 +15,7 @@
 ## 💡 About Me
 Experience with Angular & modern frontend ecosystems  
 Currently exploring React, Tailwind & creative coding    
-Continuously learn and explore new tools and technologies
+Focused on building clean, thoughtful digital products
 
 ## 🚀 Tech Stack
 <!-- SKILLS -->
