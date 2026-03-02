@@ -32,6 +32,10 @@ Focused on building clean, thoughtful digital products
 
 <div align="center"> 
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OlgaTorok&theme=react" alt="Repos per lang" width="35%" align="left"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OlgaTorok&theme=react" alt="Productive time" width="35%" align="left" />
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=OlgaTorok&theme=react&show_icons=true" alt="Productive time" width="50%" align="left" />
 </div>
+
+
+[![Olga's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OlgaTorok&theme=react&height=250&radius=4.5)](https://github.com/OlgaTorok/github-readme-activity-graph)
+
 
