@@ -26,16 +26,17 @@ Enjoy building clean, thoughtful digital products.
 ## 📊 GitHub Stats
 
 <div align="center"> 
-    <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=OlgaTorok&theme=tokyonight" alt="Repos per lang" width="55%" align="left"/>
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=OlgaTorok&layout=compact&theme=tokyonight" alt="Repos per lang" width="40%" align="left"/>
+    <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=OlgaTorok&theme=merko" alt="Repos per lang" width="50%" align="left"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OlgaTorok&theme=merko" alt="Repos per lang" width="34%" align="left"/>
 </div>
 
 <div align="center"> 
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OlgaTorok&theme=react" alt="Repos per lang" width="35%" align="left"/>
-    <img src="https://github-readme-stats-fast.vercel.app/api?username=OlgaTorok&theme=react&show_icons=true" alt="Productive time" width="50%" align="left" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=OlgaTorok&layout=compact&theme=merko" alt="Repos per lang" width="38%" align="left"/>
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=OlgaTorok&theme=merko&show_icons=true" alt="Productive time" width="50%" align="left" />
 </div>
 
 
-[![Olga's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OlgaTorok&theme=react&height=250&radius=4.5)](https://github.com/OlgaTorok/github-readme-activity-graph)
+
+[![Olga's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OlgaTorok&theme=merko&height=250&radius=4.5)](https://github.com/OlgaTorok/github-readme-activity-graph)
 
 
