@@ -32,7 +32,7 @@ Enjoy building clean, thoughtful digital products.
 
 <div align="center"> 
     <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=OlgaTorok&layout=compact&theme=merko" alt="Repos per lang" width="38%" align="left"/>
-    <img src="https://github-readme-stats-fast.vercel.app/api?username=OlgaTorok&theme=merko&show_icons=true" alt="Productive time" width="50%" align="left" />
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=OlgaTorok&theme=merko&show_icons=true" alt="Productive time" width="50%" align="right" />
 </div>
 
 
