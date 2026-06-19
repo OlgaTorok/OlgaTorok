@@ -13,9 +13,9 @@
 <h3 align="center">Frontend Developer | UI-focused | Building scalable web apps </h3>
 
 ## 💡 About Me
+Front-End Developer passionate about creating responsive, intuitive, and visually engaging web applications.  
 Experience with Angular & modern frontend ecosystems.  
-Currently exploring React, Tailwind & creative coding.    
-Enjoy building clean, thoughtful digital products. 
+Currently exploring React, TailwindCSS & creative coding.    
 
 ## 🚀 Tech Stack
 <!-- SKILLS -->
